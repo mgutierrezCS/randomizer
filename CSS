@@ -1,0 +1,26 @@
+//CSS CODE STARTS HERE!!!!!!!!!!!!!!!!!!!
+body {background-color: black;
+margin: 10%;}
+
+h1 {color: white;
+text-align: center;
+font-size:42px;}
+
+#holder {
+  color: lightpink;
+  text-align: center;
+   font-size:22px;
+}
+
+#button {
+  padding: 6%;
+  background-color: gray;
+  color: white;
+margin: 10%;
+  font-size: 24px;
+}
+
+div {text-align: center;}
+
+
+
